@@ -1,9 +1,9 @@
 # gitTest
-## nothing
+ > Just for testing git's Bug
 ### blog
 https://www.litblc.com
-# branchTest
-## nothing ##
-### webpage
-phpb.io
 
+### domain 
+phpb.io
+fmock.com
+phpis.top
