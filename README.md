@@ -3,7 +3,7 @@
 ### blog
 https://www.litblc.com
 
-### domain  
+### domain  name
 phpb.io
 fmock.com
 phpis.top
